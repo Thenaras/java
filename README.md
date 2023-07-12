@@ -1,5 +1,4 @@
 # java
-java tarining 
 import java.util.Scanner;
 
 public class EvenOdd {
